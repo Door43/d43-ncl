@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncl:home|Door43 (ncl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncl|d43-ncl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncl/archive/master.zip|d43-ncl.zip]]
+
+**Recent Changes**
+{{changes>ns = ncl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncl|Ethnologue data]]
+
